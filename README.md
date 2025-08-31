@@ -22,12 +22,12 @@
 
 
 ##FLOW STEPS:
-1.Import netlist,constraints (.sdc),Library files(.lib.
-2.Floorplan (define core and die area,port placement,voltage area,macro placement).
-3.Placement(Standard cells placement and optimization).
-4.Cts(clock tree synthesis).
-5.Routing(Global and detailed routing)
-6.sign off(fixing Eco)
+1. Import netlist,constraints (.sdc),Library files(.lib.
+2. Floorplan (define core and die area,port placement,voltage area,macro placement).
+3. Placement(Standard cells placement and optimization).
+4. Cts(clock tree synthesis).
+5. Routing(Global and detailed routing)
+6. Sign off(fixing Eco)
 
 
 
