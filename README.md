@@ -4,7 +4,7 @@
 2.It is focused on learning and practicing industry-Standard backend steps like Floorplaning,Placement,clock tree synthesis,Routing,sign off.
 
 
-1.Floorplan:
+1. Floorplan:
     - The floorplan is created using ICC2, defining the chip's physical boundaries and pin locations.
     - The floorplan is optimized for minimal area and congestion.
 2. *Placement*:
